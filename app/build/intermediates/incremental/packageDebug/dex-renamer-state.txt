@@ -1,0 +1,7 @@
+#Tue Oct 31 00:11:40 JST 2017
+base.0=/Users/moaible/github/clones/putraxor\:linechart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9fedb3db8595e216cee7567d5dae3e21e80d17e3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/moaible/github/clones/putraxor\:linechart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ed198ab046d7a7883c56ec426e0ddd826ba06de/classes.dex
+base.1=/Users/moaible/github/clones/putraxor\:linechart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ed198ab046d7a7883c56ec426e0ddd826ba06de
+file.0=/Users/moaible/github/clones/putraxor\:linechart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9fedb3db8595e216cee7567d5dae3e21e80d17e3/classes.dex

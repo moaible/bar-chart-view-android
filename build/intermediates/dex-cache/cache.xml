@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.4/7abd1ecef320da6a7679b137083151401fe8bf43/MPAndroidChart-v2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.2.4_bb902f8154a290a344c524e29cf6ba7c89b75c3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/6423047b85d6ff9799a174f36ce323f7fa41a9a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81f588bd640d977786c079bccb0d6314080c3517/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.6_cb922b5a77ccb75c5aba1a5f43449f12f9a88048/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.6_dc5b7a3ec2b2f2bca58e220a9bbf38a4d7650247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="765cc2cc370cd5e55502f748242f7c42140c1f82">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ed198ab046d7a7883c56ec426e0ddd826ba06de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9fedb3db8595e216cee7567d5dae3e21e80d17e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/c9ceba0511739b178e1b7a072fcbee5d2899dead/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a2bf2de76ffe3665d717bb9c57c29c828b67b55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/336ed1545d12ec6a875a610dd1fca44fb7a53b78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2a9d2944dcb1571b7faa6c0b21c81743a2ac78d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/b6416aadd58d5aed9e34c8868999dcd3164d6748/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2da3547204964c724e7fbead746bbdc1576fa670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.gradle/caches/modules-2/files-2.1/com.univocity/univocity-parsers/2.3.1/a615084a458112a42e0968284c06ceec927b0e28/univocity-parsers-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a615084a458112a42e0968284c06ceec927b0e28">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/univocity-parsers-2.3.1_bbb9a468f94d7c0fab7a77c13760321a52613e37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/a5d2654f110713c568f7e9b2a91e6159852ef878/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_227f992e7ed75409c60df051609c3819b0f9b80a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_99f95484304b1192bcbdced4534a690e4687a9d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/f18d5771e1ba8784576032a57879f2cb5f698b01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5b3c70581cdde66f7e2484a3ccce63f09c9cf7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/8ff4ec108e4caae6b82685f4b6979150b243d463/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e60f853d1e9d258b47ab91caffea774eec66d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/5d7711ca5db8be53994c6cbdd29f7420e89180e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07792734b72177e64658db9484797592be323c68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/moaible/.android/build-cache/588144b3b7f9702f29bdfebebdd1d79c19b4aed8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/moaible/github/clones/moaible:barchart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90338a970aa95d92c1f6fdcd65894bdf773bdc6e/classes.dex" />
+    </item>
+
+</items>

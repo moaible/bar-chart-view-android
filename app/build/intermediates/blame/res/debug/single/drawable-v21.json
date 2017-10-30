@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/moaible/github/clones/putraxor:linechart/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/moaible/.android/build-cache/6423047b85d6ff9799a174f36ce323f7fa41a9a7/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/moaible/github/clones/putraxor:linechart/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/moaible/.android/build-cache/6423047b85d6ff9799a174f36ce323f7fa41a9a7/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/moaible/github/clones/putraxor:linechart/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/moaible/.android/build-cache/6423047b85d6ff9799a174f36ce323f7fa41a9a7/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/moaible/github/clones/putraxor:linechart/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/moaible/.android/build-cache/6423047b85d6ff9799a174f36ce323f7fa41a9a7/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
